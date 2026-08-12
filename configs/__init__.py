@@ -1,0 +1,1 @@
+from .template import text_prompt,DEFECT_PROMPT,class_2_prompt,class_multi_prompt
